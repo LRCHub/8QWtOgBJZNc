@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Hurt",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-03-19T06:00:25.583555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only Love Can Hurt Like This",
+      "artist": "Paloma Faith",
+      "has_synced": true,
+      "path": "select/01_Only_Love_Can_Hurt_Like_This_Paloma_Faith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Gospel of John Hurt",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/02_The_Gospel_of_John_Hurt_alt-J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Gospel of John Hurt",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/03_The_Gospel_of_John_Hurt_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here Comes the Hurt Again",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/04_Here_Comes_the_Hurt_Again_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hurt",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_Hurt_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hurt (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_Hurt_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hurt So Bad",
+      "artist": "Jaime Wyatt feat. Shooter Jennings",
+      "has_synced": true,
+      "path": "select/07_Hurt_So_Bad_Jaime_Wyatt_feat._Shooter_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hurt So Bad",
+      "artist": "Jaime Wyatt",
+      "has_synced": true,
+      "path": "select/08_Hurt_So_Bad_Jaime_Wyatt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Hurt Anymore - Remastered",
+      "artist": "Hank Snow & His Rainbow Ranch Boys",
+      "has_synced": false,
+      "path": "select/09_I_Don't_Hurt_Anymore_-_Remastered_Hank_Snow_&_His_Rainbow_Ranch_Boys.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Hurt Anymore (Remastered)",
+      "artist": "Hank Snow And His Rainbow Ranch Boys",
+      "has_synced": false,
+      "path": "select/10_I_Don't_Hurt_Anymore_(Remastered)_Hank_Snow_And_His_Rainbow_Ranch_Boys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Guess It Never Hurts To Hurt Sometimes",
+      "artist": "The Oak Ridge Boys",
+      "has_synced": true,
+      "path": "select/11_I_Guess_It_Never_Hurts_To_Hurt_Sometimes_The_Oak_Ridge_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm Gonna Hurt Her On the Radio",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/12_I'm_Gonna_Hurt_Her_On_the_Radio_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm Gonna Hurt Her On the Radio (Album Version)",
+      "artist": "David Allan Coe",
+      "has_synced": true,
+      "path": "select/13_I'm_Gonna_Hurt_Her_On_the_Radio_(Album_Version)_David_Allan_Coe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Don't Hurt Like It Used To",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/14_It_Don't_Hurt_Like_It_Used_To_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This One's Gonna Hurt You (For a Long, Long Time)",
+      "artist": "Marty Stuart",
+      "has_synced": true,
+      "path": "select/15_This_One's_Gonna_Hurt_You_(For_a_Long,_Long_Time)_Marty_Stuart.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "This One's Gonna Hurt You (For A Long, Long Time) (Album Version)",
+      "artist": "Marty Stuart",
+      "has_synced": true,
+      "path": "select/16_This_One's_Gonna_Hurt_You_(For_A_Long,_Long_Time)_(Album_Version)_Marty_Stuart.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Make It Hurt",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/17_Make_It_Hurt_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hurt",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/18_Hurt_Yung_Lean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hurt",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_Hurt_NewJeans.txt"
+    }
+  ]
+}
